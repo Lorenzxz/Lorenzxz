@@ -4,7 +4,7 @@
 
 <div align="left">
 
-- 🔭 I’m currently pursuing my Master's degree in Computer Science at Purdue University
+- 🔭 I’m currently pursuing my Master's degree in Computer Science
 - 🌱 I’m currently learning Crypto and Network Security, Heuristic Problem Solving and Database Systems.
 - 🤔 I’m looking for help with UI/UX
 - 💬 Ask me about Web Development (React, Html and CSS)
