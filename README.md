@@ -31,7 +31,7 @@ Intro =
 
 ### 📉 My Stats
 
-![Fahri Github Statistic](https://github-readme-stats.vercel.app/api?username=Lorenzxs&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
+![Fahri Github Statistic](https://github-readme-stats.vercel.app/api?username=Lorenzxz&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzxz&layout=compact&theme=highcontrast)
 
 ### 📈 My Contribution Graph
@@ -225,3 +225,5 @@ Intro =
 [repo]: https://github.com/lorenzxz?tab=repositories
 
 <hr />
+
+<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="Lorenzxz">
